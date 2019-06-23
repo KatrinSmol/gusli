@@ -1,6 +1,10 @@
 body {
+  display: block;
+
   color: #0a0a0a;
   background-color: #fff;
+
+  font-family: 'DINCondensedC' sans-serif;
 }
 
 section .page-content {
