@@ -4,3 +4,10 @@
 
   src: url("../fonts/DINCondensedC.woff") format("woff");
 }
+
+@font-face {
+  font-family: "DINPro-Regular";
+  /* font-weight: bold; */
+
+  src: url("../fonts/DINPro-Regular.woff") format("woff");
+}
