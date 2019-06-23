@@ -49,14 +49,14 @@ section.page-content div.wrap header li a.active {
 }
 
 section.page-content div.text {
-  margin: 0em 1em 1em 2em;
+  margin: 0% 5% 5% 25%;
 
   letter-spacing: -0.04em;
 
   color: #0a0a0a;
 
   font-family: "DINCondensedC",sans-serif;
-  font-size: 11.625em;
+  font-size: 11.625rem;
   line-height: 80.3%;
 }
 
@@ -70,35 +70,21 @@ section.page-content div.wrap footer.row {
 section.page-content div.wrap footer.row div.column {
   float: left;
 
-  padding: 0em 0.3em 0em 0em;
+  margin: 0em 1em 0em 0em;
 }
 
 section.page-content div.wrap footer.row div.column:last-child {
-  padding: 0em 0em 0em 0em;
+  margin: 0em 0em 0em 0em;
 }
 
-section.page-content div.wrap footer.row div.column div.left {
-  width: 3em;
+section.page-content div.wrap footer.row div.column.left {
+  width: 23%;
 }
 
-section.page-content div.wrap footer.row div.column div.middle {
-  width: 4em;
+section.page-content div.wrap footer.row div.column.middle {
+  width: 50%;
 }
 
-section.page-content div.wrap footer.row div.column div.right {
-  width: 3em;
+section.page-content div.wrap footer.row div.column.right {
+  width: 20%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
