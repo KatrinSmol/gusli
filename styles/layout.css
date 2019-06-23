@@ -4,7 +4,7 @@ body {
 }
 
 section .page-content {
-  padding: 0 1em;
+  margin: 30px;
 }
 
 section .page-content div .wrap header::before {
