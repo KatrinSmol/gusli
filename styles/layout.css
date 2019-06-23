@@ -1,16 +1,25 @@
+* {
+  box-sizing: border-box;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 body {
   display: block;
+
+  text-decoration: none;
 
   color: #0a0a0a;
   background-color: #fff;
 
-  font-family: 'DINCondensedC' sans-serif;
+  font-family: "DINCondensedC",sans-serif;
 }
 
 body section.page-content {
   margin: 30px;
 }
 
-section.page-content div.wrap header::before {
-  
+section.page-content div.wrap header{
+  font-size: 15px;
 }

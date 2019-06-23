@@ -1,5 +1,6 @@
 @font-face {
-  font-family: 'DINCondensedC';
+  font-family: "DINCondensedC";
+  font-weight: bold;
 
-  src: url('../fonts/DINCondensedC.woff') format('woff');
+  src: url("../fonts/DINCondensedC.woff") format("woff");
 }
