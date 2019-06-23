@@ -1,18 +1,16 @@
 body {
   display: block;
 
-  margin: 30px;
-
   color: #0a0a0a;
   background-color: #fff;
 
   font-family: 'DINCondensedC' sans-serif;
 }
 
-section .page-content {
+body section.page-content {
   margin: 30px;
 }
 
-section .page-content div .wrap header::before {
+section.page-content div.wrap header::before {
   
 }
