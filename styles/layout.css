@@ -27,20 +27,75 @@ section.page-content div.wrap header{
 
   font-size: 15px;
 }
-section.page-content div.wrap header a {
+
+section.page-content div.wrap header li {
+  margin: 0em 0em 0.3em 0em;
+}
+
+section.page-content div.wrap header li a{
   text-decoration: none;
+
+  color: #9D9D9D;
+}
+
+section.page-content div.wrap header li a:hover {
+  cursor: default;
+}
+
+section.page-content div.wrap header li a.active {
+  text-decoration: underline;
 
   color: #0a0a0a;
 }
 
 section.page-content div.text {
-  margin: 0em 1em 0em 2em;
+  margin: 0em 1em 1em 2em;
 
   letter-spacing: -0.04em;
 
   color: #0a0a0a;
 
-  font-family: DINCondensedC;
+  font-family: "DINCondensedC",sans-serif;
   font-size: 11.625em;
   line-height: 80.3%;
 }
+
+section.page-content div.wrap footer.row {
+  /* display: flex;
+  flex-direction: column; */
+  width: 100%;
+  height: 3em;
+}
+
+section.page-content div.wrap footer.row div.column {
+  float: left;
+
+  padding: 0em 0.3em 0em 0em;
+}
+
+section.page-content div.wrap footer.row div.column:last-child {
+  padding: 0em 0em 0em 0em;
+}
+
+section.page-content div.wrap footer.row div.column div.left, section.page-content div.wrap footer.row div.column div.right{
+  width: 3em;
+}
+
+section.page-content div.wrap footer.row div.column div.middle{
+  width: 4em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
