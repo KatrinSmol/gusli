@@ -8,6 +8,8 @@
 body {
   display: block;
 
+  width: 100%;
+
   text-decoration: none;
 
   color: #0a0a0a;
@@ -17,9 +19,28 @@ body {
 }
 
 body section.page-content {
-  margin: 30px;
+  margin: 3em;
 }
 
 section.page-content div.wrap header{
+  height: 8em;
+
   font-size: 15px;
+}
+section.page-content div.wrap header a {
+  text-decoration: none;
+
+  color: #0a0a0a;
+}
+
+section.page-content div.text {
+  margin: 0em 1em 0em 2em;
+
+  letter-spacing: -0.04em;
+
+  color: #0a0a0a;
+
+  font-family: DINCondensedC;
+  font-size: 11.625em;
+  line-height: 80.3%;
 }
