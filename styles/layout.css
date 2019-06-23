@@ -77,14 +77,17 @@ section.page-content div.wrap footer.row div.column:last-child {
   padding: 0em 0em 0em 0em;
 }
 
-section.page-content div.wrap footer.row div.column div.left, section.page-content div.wrap footer.row div.column div.right{
+section.page-content div.wrap footer.row div.column div.left {
   width: 3em;
 }
 
-section.page-content div.wrap footer.row div.column div.middle{
+section.page-content div.wrap footer.row div.column div.middle {
   width: 4em;
 }
 
+section.page-content div.wrap footer.row div.column div.right {
+  width: 3em;
+}
 
 
 
