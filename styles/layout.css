@@ -1,0 +1,12 @@
+body {
+  color: #0a0a0a;
+  background-color: #fff;
+}
+
+section .page-content {
+  padding: 0 1em;
+}
+
+section .page-content div .wrap header::before {
+  
+}
