@@ -1,6 +1,7 @@
 @font-face {
   font-family: "DINCondensedC";
   font-weight: normal;
+  font-style: normal;
 
   src: url("../fonts/DINCondensedC.woff2") format("woff2");
 }
@@ -8,6 +9,7 @@
 @font-face {
   font-family: "DINPro-Regular";
   font-weight: normal;
+  font-style: normal;
 
   src: url("../fonts/DINPro-Regular.woff2") format("woff2");
 }
