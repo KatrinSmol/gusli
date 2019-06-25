@@ -25,19 +25,6 @@ section.page-content div.wrap div.main div.gusli-text div.column {
   margin: 0% 0% 2% 5%;
 }
 
-/* section.page-content div.wrap div.main div.gusli-text div.column.left {
-  width: 24%;
-  padding-right: 1.7em;
-}
-
-section.page-content div.wrap div.main div.gusli-text div.column.middle {
-  width: 56%;
-}
-
-section.page-content div.wrap div.main div.gusli-text div.column.right {
-  width: 15%;
-} */
-
 section.page-content div.wrap div.main h2 {
   margin: 25% 5% 0% 5%;
 
@@ -55,7 +42,7 @@ section.page-content div.wrap div.main h2 {
 
 
 section.page-content div.wrap div.main h3 {
-  margin: 5% 10% 3% 10%;
+  margin: 15% 10% 3% 10%;
 
   transition: font-size 1000ms;
   text-align: center;
@@ -69,52 +56,48 @@ section.page-content div.wrap div.main h3 {
   line-height: 90px;
 }
 
-/* section.page-content div.wrap div.main img {
-  width: 45%;
-  height: 45%;
-  margin: 5% 30% 10% 30%;
-
-  text-align: center;
-} */
-
-/* section.page-content div.wrap div.main img.fotka {
+section.page-content div.wrap div.main img.fotka {
   display: block;
 
   width: 280px;
-  height: auto;
-  /* margin: 2% 35% 5% 35%;*/
   margin: 0 auto;
-  margin-top: 5%;
 
   transition: width 1000ms;
   transform: rotate(-6deg);
 
   border-radius: 3px;
   box-shadow: -4px 4px 10px rgba(0, 0, 0, 0.25);
-} */
+}
 
 section.page-content div.wrap div.main img.mb {
+  display: block;
+
   width: 400px;
-  height: auto;
-  margin: 0% 30% 6% 25%;
+  margin: 0 auto;
 }
 
 section.page-content div.wrap div.main img.lakirovka {
+  display: block;
+
   width: 45%;
-  height: 45%;
-  margin: 0% 30% 6% 15%;
+  margin: 0 auto;
+}
+
+section.page-content div.wrap div.main img.virez {
+  width: 300px;
 }
 
 section.page-content div.wrap div.main img.virez, section.page-content div.wrap div.main img.posters  {
-  margin: 0% 30% 6% 30%;
-  margin-top: 0%;
-  margin-bottom: 6%;
+  display: block;
+
+  margin: 0 auto;
 }
 
 section.page-content div.wrap div.main img.strun, section.page-content div.wrap div.main img.end {
+  display: block;
+
   width: 65%;
-  height: 65%;
-  margin: 5% 30% 6% 20%;
+  margin: 0 auto;
 }
 
 section.page-content div.wrap div.main div.gusli-text div.ups {
@@ -160,54 +143,55 @@ section.page-content div.wrap div.main div.gusli-text div.ups {
     font-size: 6vw;
   }
 
-  section.page-content div.wrap div.main img {
-    width: 45%;
-    height: 45%;
-    margin: 5% 30% 10% 30%;
-  }
-
   section.page-content div.wrap div.main img.fotka {
     display: block;
 
     width: 35%;
     margin: 0 auto;
-    /* transform: rotate(-6deg);*/
 
     border-radius: 3px;
     box-shadow: -4px 4px 10px rgba(0, 0, 0, 0.25);
   }
 
   section.page-content div.wrap div.main img.mb {
+    display: block;
+
     width: 55%;
-    height: 55%;
-    margin: 0% 30% 6% 25%;
+    margin: 0 auto;
   }
 
   section.page-content div.wrap div.main img.lakirovka {
+    display: block;
+
     width: 65%;
-    height: 65%;
-    margin: -2% 30% 6% 15%;
+    margin: 0 auto;
   }
 
   section.page-content div.wrap div.main img.virez {
+    display: block;
+
     width: 40%;
-    height: 40%;
+    margin: 0 auto;
   }
 
   section.page-content div.wrap div.main img.posters {
+    display: block;
+
     width: 50%;
-    height: 50%;
+    margin: 0 auto;
   }
 
   section.page-content div.wrap div.main img.virez, section.page-content div.wrap div.main img.posters  {
-    margin-top: 0%;
-    margin-bottom: 6%;
+    display: block;
+
+    margin: 0 auto;
   }
 
   section.page-content div.wrap div.main img.strun, section.page-content div.wrap div.main img.end {
+    display: block;
+
     width: 65%;
-    height: 65%;
-    margin: 5% 30% 6% 20%;
+    margin: 0 auto;
   }
 
   section.page-content div.wrap div.main img.gusli-logo {
