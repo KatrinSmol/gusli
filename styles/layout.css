@@ -89,14 +89,12 @@ section.page-content div.wrap footer a {
 section.page-content div.wrap footer div.column {
   float: left;
 
-  margin: 0em 1em 0em 0em;
+  margin: 0% 2% 2% 2%;
 }
 
-section.page-content div.wrap footer div.column:last-child {
-  margin: 0em 0em 0em 0em;
-}
 
-section.page-content div.wrap footer div.column.left {
+
+/* section.page-content div.wrap footer div.column.left {
   width: 24%;
   padding-right: 1.7em;
 }
@@ -107,10 +105,10 @@ section.page-content div.wrap footer div.column.middle {
 
 section.page-content div.wrap footer div.column.right {
   width: 15%;
-}
+} */
 
 section.page-content div.wrap p.name{
-  margin: 4em 0em 0em 0em;
+  margin: 15% 0% 0% 0%;
 
   text-align: center;
 
@@ -119,40 +117,35 @@ section.page-content div.wrap p.name{
 
 
 @media only screen and (min-width: 1110px) {
-  
-  section.page-content div.wrap footer div.column.left {
-    text-align: center;
+
+  section.page-content div.wrap footer div.column {
+    float: left;
+
+    margin: 0% 0.2% 5% 0.2%;
   }
 
-  
+  section.page-content div.wrap footer div.column.left {
+    width: 24%;
+    padding-right: 1.7em;
+  }
+
+  section.page-content div.wrap footer div.column.middle {
+    width: 56%;
+  }
+
+  section.page-content div.wrap footer div.column.right {
+    width: 15%;
+  }
+
+  section.page-content div.wrap footer div.column:last-child {
+    margin: 0em 0em 0em 0em;
+  }
+
+  section.page-content div.wrap p.name{
+    margin: 5% 0% 0% 0%;
+
+    text-align: center;
+
+    color: #9D9D9D;
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
