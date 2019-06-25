@@ -71,6 +71,8 @@ section.page-content div.wrap div.main img {
   width: 45%;
   height: 45%;
   margin: 5% 30% 10% 30%;
+
+  text-align: center;
 }
 
 section.page-content div.wrap div.main img.fotka {
@@ -92,12 +94,13 @@ section.page-content div.wrap div.main img.mb {
 }
 
 section.page-content div.wrap div.main img.lakirovka {
-  width: 65%;
-  height: 65%;
+  width: 45%;
+  height: 45%;
   margin: 0% 30% 6% 15%;
 }
 
 section.page-content div.wrap div.main img.virez, section.page-content div.wrap div.main img.posters  {
+  margin: 0% 30% 6% 30%;
   margin-top: 0%;
   margin-bottom: 6%;
 }
@@ -177,7 +180,17 @@ section.page-content div.wrap div.main div.gusli-text div.ups {
   section.page-content div.wrap div.main img.lakirovka {
     width: 65%;
     height: 65%;
-    margin: 0% 30% 6% 15%;
+    margin: -2% 30% 6% 15%;
+  }
+
+  section.page-content div.wrap div.main img.virez {
+    width: 40%;
+    height: 40%;
+  }
+
+  section.page-content div.wrap div.main img.posters {
+    width: 50%;
+    height: 50%;
   }
 
   section.page-content div.wrap div.main img.virez, section.page-content div.wrap div.main img.posters  {
