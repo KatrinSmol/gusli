@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
 
@@ -115,3 +116,43 @@ section.page-content div.wrap p.name{
 
   color: #9D9D9D;
 }
+
+
+@media only screen and (min-width: 1110px) {
+  
+  section.page-content div.wrap footer div.column.left {
+    text-align: center;
+  }
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
